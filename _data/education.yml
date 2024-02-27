@@ -1,11 +1,14 @@
-- name: University of Washington 
+- name: Brunel University London 
   description: >-
-    Ph. D in Computer Science, advised by <a href="https://smseitz.com">Steven M. Seitz</a> and
-    <a href="https://homes.cs.washington.edu/~ali/">Ali Farhadi</a>.<br />
-    Supported by Samsung Scholarship 2015-2020 ($50,000/year for 5 years)
-  dates: Fall 2015 - Spring 2022
+    Ph. D in Computer Science, advised by <a href="https://alessiomalizia.wordpress.com/">Alessio Malizia</a> and <a href="https://www.brunel.ac.uk/people/david-bell">David Bell</a>.
+  dates: Fall 2013 - Spring 2019
 
-- name: University of Illinois at Urbana-Champaign
+- name: Università degli Studi di Firenze
   description: >-
-    B.S. in Computer Science, advised by <a href="https://dhoiem.cs.illinois.edu/">Derek Hoiem</a>.
-  dates: Fall 2009 - Spring 2013
+    M.S. in Computer Science, advised by <a href="https://www.pilucrescenzi.it/">Pierluigi Crescenzi</a>.
+  dates: Fall 2010 - Spring 2013
+
+- name: Università degli Studi di Firenze
+  description: >-
+    B.S. in Computer Science, advised by <a href="https://www.imtlucca.it/it/rocco.denicola">Rocco De Nicola</a> and <a href="https://michele-loreti.github.io/">Michele Loreti</a>.
+  dates: Fall 2006 - Spring 2010
