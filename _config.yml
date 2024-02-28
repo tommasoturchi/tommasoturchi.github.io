@@ -36,6 +36,7 @@ google_scholar: llEMIRUAAAAJ
 
 # Build settings
 theme: minima
+whitelist: [jekyll-analytics]
 plugins:
   - jekyll-feed
   - jekyll-analytics
