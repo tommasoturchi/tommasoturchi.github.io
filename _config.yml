@@ -36,19 +36,12 @@ google_scholar: llEMIRUAAAAJ
 
 # Build settings
 theme: minima
-whitelist: [jekyll-analytics]
 plugins:
   - jekyll-feed
-  - jekyll-analytics
 
 sass:
   style: compact
   quiet_deps: true
-
-jekyll_analytics:
-  Plausible:
-    domain: 'tommasoturchi.com'   # The domain configured in plausible
-    source: 'https://plausible.io/js/script.js' # The source of the javascript
 
 # Exclude from processing.
 # The following items will not be processed, by default.
