@@ -3,6 +3,7 @@
   venue: IEEE Intelligent Systems, 2024
   description: "Employing a Design Fiction-driven methodology to identify and mitigate biases in Machine Learning algorithms through reflective co-design practices."
   doi: 10.1109/MIS.2024.3352977
+  pdf: papers/is2024.pdf
   image: minicode.png
   authors:
     - tommasoturchi
@@ -14,6 +15,7 @@
   venue: IS-EUD, 2023
   description: "Investigating how the interaction with Large-scale Text-to-image Generative Models impacts creativity of design students developing an architectural project."
   doi: 10.1007/978-3-031-34433-6_3
+  pdf: papers/iseud2023.pdf
   image: cocreation.png
   authors:
     - tommasoturchi

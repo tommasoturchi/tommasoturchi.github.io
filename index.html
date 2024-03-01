@@ -149,7 +149,7 @@ layout: null
                 <span>Project Page</span>
               </a>
               {% endif %}
-              <a class="external-link button is-small is-ghost" href="https://arxiv.org/pdf/{{ publication.arxiv }}.pdf">
+              <a class="external-link button is-small is-ghost" href="{{ publication.pdf | relative_url }}">
                 <span class="icon"><i class="fas fa-file-pdf"></i></span>
                 <span>PDF</span>
               </a>
