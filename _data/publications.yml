@@ -1,3 +1,12 @@
+- id: flowpilot
+  title: "FlowPilot: A Generative AI-Driven Visual Language for Computational Thinking Education"
+  venue: IEEE VL/HCC, 2024
+  description: "Leveraging Generative AI to create a dynamic environment where users can construct programs using natural language descriptions."
+  pdf: papers/vlhcc2024.pdf
+  image: flowpilot.png
+  authors:
+    - tommasoturchi
+
 - id: minicode
   title: "Reflecting on Algorithmic Bias with Design Fiction: the MiniCoDe Workshops"
   venue: IEEE Intelligent Systems, 2024
