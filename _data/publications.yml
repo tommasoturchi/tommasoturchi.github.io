@@ -3,6 +3,7 @@
   venue: IEEE VL/HCC, 2024
   description: "Leveraging Generative AI to create a dynamic environment where users can construct programs using natural language descriptions."
   pdf: papers/vlhcc2024.pdf
+  project_page: https://flowpilot.trx.li
   image: flowpilot.png
   authors:
     - tommasoturchi
